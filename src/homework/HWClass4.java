@@ -12,5 +12,10 @@ public class HWClass4 {
 		System.out.println("test");
 		
 	}
+	
+public void practice() {
+	System.out.println("my practice");
+	
+}
 
 }
